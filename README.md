@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, folks! 👋
+
+
+My name is Everson Menezes and I’m a  software developer trainee. I’m from Brazil living São Bernardo do Campo – SP and currently working at Thomas Greg & Sons – Brazil. You can find me on [![LinkedIn][3.2]][3].
 
 <!--
 **Everson-Menezes/Everson-Menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
