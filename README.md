@@ -6,6 +6,7 @@ My name is Everson Menezes and I’m a  software developer trainee.
 🌱 I’m currently learning about .Net FrameWork 5.0.
 📫 You can find me on LinkedIn.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everson-Menezes&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&langs_count=5&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
 <!--
 **Everson-Menezes/Everson-Menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
