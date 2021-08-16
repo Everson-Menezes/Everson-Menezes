@@ -10,7 +10,5 @@ I’m a  software developer trainee.
 
 📫 You can find me on https://www.linkedin.com/in/everson-menezes-santos/.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everson-Menezes&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&langs_count=5&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Everson-Menezes&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&langs_count=5&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
 
