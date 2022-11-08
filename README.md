@@ -6,7 +6,7 @@ I’m a  software developer.
 
 🔭I’m from Brazil living Pinhalzinho – SP and currently working at Tata Consultancy Service.
 
-🌱 I’m currently learning about .Net MAUI
+🌱 I’m currently learning about .Net6
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&langs_count=5&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
 
