@@ -1,5 +1,5 @@
 ### Hello, folks! 
-![IMG-20210711-WA0004](https://user-images.githubusercontent.com/56317408/125205396-66862980-e258-11eb-9255-563116f7aa91.jpg)
+<p style="text-align: center;">![IMG-20210711-WA0004](https://user-images.githubusercontent.com/56317408/125205396-66862980-e258-11eb-9255-563116f7aa91.jpg)</p>
 ### My name is Everson Menezes
 
 I’m a  software developer.
