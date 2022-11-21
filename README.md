@@ -58,14 +58,7 @@ I’m a  software developer.
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
-    </td>
-      <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress
-    </td>
-  </tr>
+    </td>     
 </table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&langs_count=5&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
