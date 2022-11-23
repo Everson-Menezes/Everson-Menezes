@@ -50,9 +50,9 @@ I’m a  software developer.
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://seeklogo.com/images/M/microsoft-visual-studio-logo-9E65CA55F8-seeklogo.com.png?v=637810385130000000" width="48" height="48" alt="vsTUDIO" />
       </a>
-      <br>VS Code
+      <br>Visual Studio
     </td>
       <td align="center" width="96">
       <a href="#postman" >
