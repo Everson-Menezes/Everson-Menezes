@@ -26,9 +26,9 @@ I’m a  software developer.
     </td>
      <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://seeklogo.com/vector-logo/266948/microsoft-net-framework" width="48" height="48" alt="DotNet" />
       </a>
-      <br>Bootstrap
+      <br>.NET
     </td>
      <td align="center" width="96">
       <a href="#js">
