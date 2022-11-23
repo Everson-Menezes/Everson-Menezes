@@ -6,8 +6,9 @@ I’m a  software developer.
 
 🔭I’m from Brazil living Pinhalzinho – SP and currently working at Tata Consultancy Service.
 
-🌱 I’m currently learning about .Net6
+🌱 I’m currently learning about .NET
 
+        
 
 <table align="center">
   <tr>
