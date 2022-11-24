@@ -10,7 +10,7 @@ I’m a  software developer.
 
         
 
-<table align="center">
+<table align="left">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
