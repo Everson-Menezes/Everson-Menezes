@@ -61,7 +61,7 @@ I’m a  software developer.
       <br>Postman
     </td>     
 </table>
-
+<br><br><br><br><br><br><br><br><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&langs_count=5&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
 
 📫 You can find me on 
