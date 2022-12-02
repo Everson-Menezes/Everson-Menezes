@@ -6,7 +6,7 @@ I’m a  software developer.
 
 🔭I’m from Brazil living Pinhalzinho – SP and currently working at Tata Consultancy Service.
 
-🌱 I’m currently learning about .NET
+🌱 I’m currently learning about Flutter
 
         
 
