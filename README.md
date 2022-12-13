@@ -1,16 +1,25 @@
+
+
+<div align="center">
+
 ### Hello, folks! 
 ![IMG-20210711-WA0004](https://user-images.githubusercontent.com/56317408/125205396-66862980-e258-11eb-9255-563116f7aa91.jpg)
-### My name is Everson Menezes
 
-I’m a  software developer.
+### My name is Everson Menezes, I’m a  software developer.
+
+<br>
+<br>
+<br>
+<br>
 
 🔭I’m from Brazil living Pinhalzinho – SP and currently working at Tata Consultancy Service.
 
 🌱 I’m currently learning about Flutter
-
+</div>
         
 
-<table align="left">
+<table align="center">
+        
   <tr>
       <td align="center" width="96">
       <a href="#html5">
@@ -64,18 +73,16 @@ I’m a  software developer.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
+<div align="center">
+        
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
+        
+</div>
 
-📫 You can find me on 
-<div>
+<div align="center">
+        📫 You can find me on :
+        
   <a href="https://www.linkedin.com/in/everson-menezes-santos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
