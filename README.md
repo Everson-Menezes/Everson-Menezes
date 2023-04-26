@@ -12,7 +12,7 @@
 <br>
 <br>
 
-🔭I’m from Brazil living Pinhalzinho – SP and currently working at Tata Consultancy Service.
+🔭I’m from Brazil living Sao Bernardo do Campo – SP and currently working at Tata Consultancy Service.
 
 🌱 I’m currently learning about Flutter
 </div>
