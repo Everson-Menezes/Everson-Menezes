@@ -14,7 +14,7 @@
 
 🔭I’m from Brazil living Sao Bernardo do Campo – SP and currently working at Tata Consultancy Service.
 
-🌱 I’m currently learning about Flutter
+🌱 I’m currently learning about Angular and TypeScript
 </div>
         
 
