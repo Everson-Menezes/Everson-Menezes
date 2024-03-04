@@ -6,9 +6,6 @@
 ### My name is Everson Menezes, I’m a  software developer.
 
 <br>
-<br>
-<br>
-<br>
 
 🔭I’m from Brazil living Sao Bernardo do Campo – SP and currently working at WEX Brazil TECH.
 </div>
@@ -65,10 +62,8 @@
 </table>
 <br>
 <br>
-<br>
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Everson-Menezes&show_icons=true&theme=dark)](https://github.com/Everson-Menezes/)
-</div>
+<be>
+
 <div align="center">
         📫 You can find me on :
   <a href="https://www.linkedin.com/in/everson-menezes-santos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
