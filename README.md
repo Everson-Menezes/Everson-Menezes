@@ -6,7 +6,7 @@
 
 ### My name is Everson Menezes, I’m a software developer.
 
-🇧🇷 I’m from Brazil, living in São Bernardo do Campo – SP, and currently working at WEX Brazil TECH.
+🇧🇷 I’m from Brazil, living in São Bernardo do Campo – SP, and currently working at ITAÚ UNIBANCO.
 
 </div>
 
